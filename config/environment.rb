@@ -13,7 +13,7 @@ require File.join(File.dirname(__FILE__), 'boot')
 Rails::Initializer.run do |config|
 
   #SITE_URL = 'http://50.19.125.198/'
-  #FACEBOOK_URL = "http://apps.facebook.comheartedgiftapp/" 
+  #FACEBOOK_URL = "http://apps.facebook.com/heartedgiftapp/" 
   
   SITE_URL = 'http://50.19.125.198/'
   FACEBOOK_URL = "http://apps.facebook.com/heartedgiftapp/"
