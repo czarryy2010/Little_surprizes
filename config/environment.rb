@@ -12,10 +12,10 @@ require File.join(File.dirname(__FILE__), 'boot')
 
 Rails::Initializer.run do |config|
 
-  #SITE_URL = 'http://localhost:3000/'
+  #SITE_URL = 'http://50.19.125.198/'
   #FACEBOOK_URL = "http://apps.facebook.comheartedgiftapp/" 
   
-  SITE_URL = 'http://69.164.222.92:3000/'
+  SITE_URL = 'http://50.19.125.198/'
   FACEBOOK_URL = "http://apps.facebook.com/heartedgiftapp/"
 
   config.gem "authlogic"
