@@ -9,10 +9,10 @@
 # This should only be necessary until the final version of the new profile is released.
 
 development:
-  api_key: 160ff3da7db8f04a75fe58ca5ab90d11
-  secret_key: def046826bbe6f68b1befa7f4eab9007
+  api_key: a2c3a3cd858d77ec450a887feb88bdc5
+  secret_key: 993aa1eb04432262fa66be33fb56b2d9
   use_new_api: true
-  canvas_page_name: littlesurprizes
+  canvas_page_name: heartedgiftapp
   callback_url: http://69.164.222.92:3000
   pretty_errors: true
   set_asset_host_to_callback_url: true
@@ -38,11 +38,11 @@ test:
     server_alive_interval: 0
 
 production:
-  api_key: 160ff3da7db8f04a75fe58ca5ab90d11
-  secret_key: def046826bbe6f68b1befa7f4eab9007
+    api_key: a2c3a3cd858d77ec450a887feb88bdc5
+  secret_key: 993aa1eb04432262fa66be33fb56b2d9
   use_new_api: true
-  canvas_page_name: littlesurprizes
-  callback_url: http://69.164.222.92:3000
+  canvas_page_name: heartedgiftapp
+  callback_url: 50.19.125.198
   pretty_errors: true
   set_asset_host_to_callback_url: true
   tunnel:
